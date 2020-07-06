@@ -1,0 +1,18 @@
+body {
+	height: 8000px;
+}
+.warna-bg {
+	background: linear-gradient(to right, rgba(91,134,229, .92),
+		rgba(54,209,220, .92));
+
+	/*opacity: 0.1;*/
+}
+
+.jumbotron-bg {
+	background-size: cover;
+	background: url(../img/undraw_data_processing_yrrv.png);
+	background-size: 300px;
+	/*background-image: url(https://prog-8.com/images/html/advanced/top_en.png);*/
+	
+}
+
